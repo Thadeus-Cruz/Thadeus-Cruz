@@ -25,22 +25,28 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/thadeus-cruz-govindapillai" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="vertical-align: middle;" />
-    <span style="font-family: 'Montserrat', sans-serif; background: #fff; border-radius: 20px; padding: 8px 16px; margin-left: 8px; display: inline-block;">LinkedIn</span>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/thadeuscruzg_official" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="vertical-align: middle;" />
-    <span style="font-family: 'Montserrat', sans-serif; background: #fff; border-radius: 20px; padding: 8px 16px; margin-left: 8px; display: inline-block;">Instagram</span>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@thadeuscruzg" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" style="vertical-align: middle;" />
-    <span style="font-family: 'Montserrat', sans-serif; background: #fff; border-radius: 20px; padding: 8px 16px; margin-left: 8px; display: inline-block;">YouTube</span>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding:10px;">
+      <a href="https://linkedin.com/in/thadeus-cruz-govindapillai" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn"/><br/>
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+    <td align="center" style="padding:10px;">
+      <a href="https://instagram.com/thadeuscruzg_official" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" alt="Instagram"/><br/>
+        <strong>Instagram</strong>
+      </a>
+    </td>
+    <td align="center" style="padding:10px;">
+      <a href="https://www.youtube.com/@thadeuscruzg" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" alt="YouTube"/><br/>
+        <strong>YouTube</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
