@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00b894">Thadeus Cruz Govindapillai</span></h1>
-<h3 align="center">Frontend Developer | Research Intern | Cloud Enthusiast</h3>
+<h3 align="center" style="font-family: 'Montserrat', sans-serif;">Frontend Developer | Research Intern | Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thadeus-cruz&label=Visitors&color=0e75b6&style=flat" alt="Profile views" />
@@ -18,17 +18,22 @@
 
 ---
 
-## 🌐 Social Links
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/thadeus-cruz-govindapillai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/thadeus-cruz-govindapillai" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="vertical-align: middle;" />
+    <span style="font-family: 'Montserrat', sans-serif; background: #fff; border-radius: 20px; padding: 8px 16px; margin-left: 8px; display: inline-block;">LinkedIn</span>
   </a>
-  <a href="https://instagram.com/thadeuscruzg_official" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/thadeuscruzg_official" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="vertical-align: middle;" />
+    <span style="font-family: 'Montserrat', sans-serif; background: #fff; border-radius: 20px; padding: 8px 16px; margin-left: 8px; display: inline-block;">Instagram</span>
   </a>
-  <a href="https://www.youtube.com/@thadeuscruzg" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@thadeuscruzg" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" style="vertical-align: middle;" />
+    <span style="font-family: 'Montserrat', sans-serif; background: #fff; border-radius: 20px; padding: 8px 16px; margin-left: 8px; display: inline-block;">YouTube</span>
   </a>
 </p>
 
@@ -60,15 +65,6 @@
 - ⚙️ Scalable microservices and CI/CD pipelines  
 - 📊 Deep learning (PyTorch, TensorFlow) + model optimization  
 - 🎨 Advanced UI/UX using Framer Motion, TailwindCSS & Next.js  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thadeus-cruz&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thadeus-cruz&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 ---
 
