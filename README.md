@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00b894">Thadeus Cruz Govindapillai</span></h1>
-<h3 align="center" style="font-family: 'Montserrat', sans-serif;">Frontend Developer | Research Intern | Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="./assets/input.gif" alt="Animated Name" width="600"/>
 </p>
 
+<h3 align="center" style="font-family: 'Montserrat', sans-serif;">Frontend Developer | Research Intern | Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thadeus-cruz&label=Visitors&color=0e75b6&style=flat" alt="Profile views" />
