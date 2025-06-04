@@ -53,7 +53,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,python,java,c,cpp,aws,docker,gcp,git,linux,firebase,nodejs,postgres,mysql,postman,tensorflow,pytorch,opencv,sklearn,seaborn,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,python,java,c,cpp,aws,docker,gcp,git,linux,firebase,nodejs,postgres,mysql,postman,tensorflow,pytorch,opencv,sklearn,vscode" />
 </p>
 
 ---
