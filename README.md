@@ -2,7 +2,7 @@
 <h3 align="center" style="font-family: 'Montserrat', sans-serif;">Frontend Developer | Research Intern | Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="./assets/input.gif" alt="Animated Name" width="300"/>
+  <img src="./assets/input.gif" alt="Animated Name" width="600"/>
 </p>
 
 
