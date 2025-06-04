@@ -2,6 +2,11 @@
 <h3 align="center" style="font-family: 'Montserrat', sans-serif;">Frontend Developer | Research Intern | Cloud Enthusiast</h3>
 
 <p align="center">
+  <img src="./assets/input.gif" alt="Animated Name" width="300"/>
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=thadeus-cruz&label=Visitors&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
