@@ -89,12 +89,15 @@
 | 🧪 ML Experiment Hub | Scikit-Learn, Pandas | Visual ML dashboards for classification and regression |
 
 ---
-
 ## 📊 GitHub Stats
+
 <p align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=Thadeus-Cruz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thadeus-Cruz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Thadeus-Cruz&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thadeus-Cruz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+
+
 ## 🎤 Bonus
 
 If you enjoy music too, check out my covers and original songs on  
