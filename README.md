@@ -91,10 +91,10 @@
 ---
 
 ## 📊 GitHub Stats
-
+<center>
 ![](https://nirzak-streak-stats.vercel.app/?user=Thadeus-Cruz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thadeus-Cruz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+</center>
 ## 🎤 Bonus
 
 If you enjoy music too, check out my covers and original songs on  
