@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="./assets/Header_Banner.png" alt="Header Banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#00b894">Thadeus Cruz Govindapillai</span></h1>
 
 <p align="center">
   <img src="./assets/input.gif" alt="Animated Name" width="600"/>
 </p>
 
-<h3 align="center" style="font-family: 'Montserrat', sans-serif;">Frontend Developer | Research Intern | Cloud Enthusiast</h3>
+<h3 align="center">Frontend Developer | Research Intern | Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thadeus-cruz&label=Visitors&color=0e75b6&style=flat" alt="Profile views" />
@@ -89,6 +93,15 @@
 | 🧪 ML Experiment Hub | Scikit-Learn, Pandas | Visual ML dashboards for classification and regression |
 
 ---
+
+## 🎓 Certifications
+
+<p align="center">
+  <img src="./assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge" width="200"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -97,6 +110,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thadeus-Cruz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+---
 
 ## 🎤 Bonus
 
