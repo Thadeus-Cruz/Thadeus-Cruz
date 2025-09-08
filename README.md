@@ -23,7 +23,7 @@
 🧠 I enjoy combining **creative UIs** with **intelligent systems** to build real-world impactful solutions.
 
 📫 **Reach me at:** `thadeuscruz.g@gmail.com`  
-🌐 **Portfolio:** [www.thadeuscruzg.com](https://www.thadeuscruzg.com)
+🌐 **Portfolio:** [thadeuscruzg.com](https://thadeuscruzg.com)
 
 ---
 
