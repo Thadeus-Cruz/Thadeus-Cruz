@@ -5,7 +5,11 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00b894">Thadeus Cruz Govindapillai</span></h1>
 
 <p align="center">
-  <img src="./assets/input.gif" alt="Animated Name" width="600"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/input_bk.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/input.gif">
+    <img src="./assets/input.gif" alt="Animated Name" width="600">
+  </picture>
 </p>
 
 <h3 align="center">Frontend Developer | Research Intern | Cloud Enthusiast</h3>
@@ -64,12 +68,10 @@
 
 ## 💼 Experience
 
-🔹 **Product Development Intern** – *Cruzoe Innotek Pvt Ltd*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• R&D for SpotCone PRO – an AI-based vision inspection system for yarn defect detection  
+🔹 **Product Development Intern** – *Cruzoe Innotek Pvt Ltd* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• R&D for SpotCone PRO – an AI-based vision inspection system for yarn defect detection  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Enhanced backend algorithms, integrated full-stack modules, and collaborated across teams
 
-🔹 **Freelancer @ Copyva**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Integrated deployed backend APIs with React frontend  
+🔹 **Freelancer @ Copyva** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Integrated deployed backend APIs with React frontend  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Configured CI/CD pipelines, routed domains via DNS, and enabled HTTPS
 
 ---
@@ -86,7 +88,7 @@
 ## ✨ Featured Projects
 
 | Project | Tech Stack | Description |
-|--------|------------|-------------|
+|---|---|---|
 | 🎯 SpotCone PRO | Python, OpenCV, AI | Real-time defect detection in textile yarn cones |
 | 🌐 Copyva | React, Docker, AWS | Freelance frontend-backend integration with domain setup |
 | 📱 Mood App (Mobile) | Flutter, Firebase | Emotion-based journaling app with cloud sync |
