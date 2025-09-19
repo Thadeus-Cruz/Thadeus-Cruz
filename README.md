@@ -6,8 +6,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/input_bk.gif">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/input.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/name_b.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/name_w.gif">
     <img src="./assets/input.gif" alt="Animated Name" width="600">
   </picture>
 </p>
